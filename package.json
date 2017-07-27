@@ -1,0 +1,17 @@
+{
+  "name": "widthextractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "mediainfo-wrapper": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "LMichaud"
+}
